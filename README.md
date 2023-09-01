@@ -26,21 +26,23 @@ To use the DNI Calculator, follow these steps:
 
 Once the program is running, follow these instructions to validate a Spanish NIE:
 
-1. Enter the Spanish NIE without the last letter when prompted.
-2. The program will calculate the checksum letter and display it.
-3. Compare the calculated checksum letter with the one in your NIE.
-4. If the calculated checksum letter matches the one in your NIE, your NIE is valid. Otherwise, it may be incorrect or invalid.
+1. Enter the full NIE when prompted. You can also use the foreign NIE format.
+2. The program will calculate the checksum letter and display if it is correct or not.
 
 Here's an example of how to use the program:
 
   ```plaintext
-  Please enter the Spanish NIE without the last letter: X1234567
-  The calculated checksum letter is: Z
+  To validate the NIE, enter below the full NIE:
+  [You can also use the foreign NIE]
+
+  12345678Z
+
+  This nie: {12345678Z} is valid!
   ```
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
+Contributions are welcome! Feel free to submit a pull request if you have any ideas for improvements, bug fixes, or new features.
 
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
