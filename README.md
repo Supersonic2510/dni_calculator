@@ -19,7 +19,7 @@ To use the DNI Calculator, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/dni_calculator.git
+   git clone https://github.com/Supersonic2510/dni_calculator.git
    ```
 
 ## Usage
