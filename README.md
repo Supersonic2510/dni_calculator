@@ -50,5 +50,5 @@ Contributions are welcome! If you have any ideas for improvements, bug fixes, or
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE(https://github.com/Supersonic2510/dni_calculator/blob/master/LICENSE.md)https://github.com/Supersonic2510/dni_calculator/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Supersonic2510/dni_calculator/blob/master/LICENSE.md) file for details.
 
